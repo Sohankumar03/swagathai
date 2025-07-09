@@ -1,0 +1,37 @@
+/* h1{
+    color: yellow;
+}
+
+p{
+    color: chocolate;
+}
+button{
+    background-color: rgb(232, 6, 6);
+    color: white;
+}
+body{
+    background-color:black;
+} */
+
+/* practice set 1 */
+/* 
+#box{
+    background-color: blue;
+}
+.heading {
+    color: red;
+}
+button{
+    background-color: green;
+} */
+ p{
+    text-align: center;
+ }
+ h1{
+
+    text-align: center;
+    text-decoration: underline;
+ }
+ a{
+    text-decoration: none;
+ }
